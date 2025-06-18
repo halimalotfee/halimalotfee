@@ -3,7 +3,7 @@ As a data-driven and impact-oriented Data Scientist, I thrive on transforming co
 
 I love building machine learning systems end to end: from data acquisition and model design to deployment in the cloud.
 
-With hands-on experience in **GCP**, **MLOps**, **Streamlit**, **Power Apps**, and advanced ML algorithms, I'm committed to designing solutions that make a real difference.
+With hands-on experience in **GCP**, **MLOps**, **Streamlit**, and advanced ML algorithms, I'm committed to designing solutions that make a real difference.
 
 🌱 Currently, I'm exploring **Machine Learning System Design**  
 🔭 I'm also sharpening my skills in **algorithms**, **data structures**, and **ML deployment pipelines**  
