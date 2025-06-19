@@ -1,5 +1,5 @@
 Hi 👋, I'm Lotfe Halima</h1>,
-As a data-driven and impact-oriented Data Scientist, I thrive on transforming complex datasets into smart, scalable solutions — from industrial forecasting and medical image analysis to marketing optimization.
+As a data-driven and impact-oriented Data Scientist, I thrive on transforming complex datasets into smart, scalable solutions. From industrial forecasting and medical image analysis to marketing optimization.
 
 I love building machine learning systems end to end: from data acquisition and model design to deployment in the cloud.
 
